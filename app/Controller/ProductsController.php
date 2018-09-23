@@ -4,7 +4,6 @@
  * This file is contains the Products CRUD.
  * Confidential Code.
  * Date  06/06/2016.
- * Coding Standard : PSR-II
 **/
 
 App::uses('AppController', 'Controller');
